@@ -1,0 +1,10 @@
+{
+  "video_id": "-Tgc_9uYJLI",
+  "title": "Introducing FunctionGemma",
+  "description": "Meet FunctionGemma, a specialized version of the Gemma 3 270M model, fine-tuned specifically for function calling and tool use and designed to be fine-tuned further.\n\nIn this video, Kat Black (Product Manager, Google DeepMind) and Ravin Kumar (Research Scientist, Google DeepMind) introduce how this lightweight model enables developers to build fast, private, and cost-effective applications that translate natural language into executable API actions. Despite its small size (only 270 million parameters), FunctionGemma is designed to run efficiently on-device, making it perfect for mobile hardware, embedded systems, and edge computing.\n\nWe also showcase two demos running on Google AI Edge: Mobile Actions that controls device features (like the flashlight and calendar) via voice, and an interactive farming game driven entirely by natural language commands.\n\nResources:\nAnnouncing FunctionGemma, a specialized version of our Gemma 3 270M model that\u2019s fine-tuned for function calling \u2192 https://goo.gle/44ViZ6n  \nTrain your own specialized agent with our Colab notebook \u2192 https://goo.gle/4p7SqCb\nRun your specialized Mobile Actions model in Google AI Edge Gallery \u2192 https://goo.gle/49jPJIK\n\nSubscribe to Google for Developers \u2192 https://goo.gle/developers \n\nSpeakers: Kat Black, Ravin Kumar\nProducts Mentioned:  Gemma",
+  "thumbnail": "https://i.ytimg.com/vi/-Tgc_9uYJLI/maxresdefault.jpg",
+  "duration": 303,
+  "channel_name": "Google for Developers",
+  "upload_date": "20251219",
+  "view_count": 297007
+}
